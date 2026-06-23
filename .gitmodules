@@ -1,0 +1,3 @@
+[submodule "refference/rp3500a-model"]
+	path = reference/rp3500a-model
+	url = https://github.com/GregoryLand/rp3500a-model
