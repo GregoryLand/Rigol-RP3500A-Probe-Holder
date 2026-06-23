@@ -16,6 +16,8 @@ Author: FokieH_Print
 
 SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
+Link: https://www.printables.com/model/824414-ergo-flexi-fix
+
 ### rp3500a-model
 
 Files: `reference/rp3500a-model/*`
@@ -24,3 +26,4 @@ Author: Gregory Land
 
 SPDX-License-Identifier: CC-BY-4.0
 
+Link: https://github.com/GregoryLand/rp3500a-model
